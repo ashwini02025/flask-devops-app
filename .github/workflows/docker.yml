@@ -35,5 +35,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags:ashwini2123/flask-app:latest
+          tags:ashwini02025/flask-devops-app:latest
 
